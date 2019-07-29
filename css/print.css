@@ -65,9 +65,8 @@ section.skills .tech-stack > ul > li li {
 
 }
 section.experience{
-    margin-top: 100px;
+    box-shadow: none;
 }
-section.myPortfolio{
-    margin-top: 100px;
 
-}
+
+    

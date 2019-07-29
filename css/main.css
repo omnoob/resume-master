@@ -18,6 +18,18 @@ hr {
 ul,
 ol {
   list-style: none;
+  
+}
+.courses{
+  list-style: disc;
+  display: flex;
+  width: 80%;
+  /* height: 300px; */
+  justify-content: space-around;
+}
+.courses > ul{
+  list-style: disc;
+  margin: 10px 0;
 }
 h1,
 h2,
@@ -344,9 +356,12 @@ section.skills .tech-stack > ul > li li {
   top: 5px;
 }
 section.experience {
+  box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+  max-width: 884px;
   padding: 50px 30px;
   margin-bottom: 60px;
   margin-top: 0px;
+  background: #FFFFFF;
   /* border: 10px solid blue; */
 }
 section.experience > p {
