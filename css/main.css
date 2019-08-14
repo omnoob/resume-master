@@ -366,7 +366,7 @@ section.experience {
 }
 section.experience > p {
   /* padding-top:30px; */
-  line-height:1.7;
+  line-height:3;
 }
 section.myPortfolio {
   background: #fafafa;
