@@ -553,3 +553,6 @@ section.download .downloadResume:hover {
   color: #333 !important;
   background: #ebe3df;
 }
+.tech-tag-list_item-amap {
+  background: #3b4f40;
+}
