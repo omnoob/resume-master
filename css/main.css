@@ -442,7 +442,7 @@ section.myPortfolio {
   text-decoration: underline;
 }
 .boundary .section_body .project .project_thumb {
-  background: #eee;
+  /* background: #eee; */
   width: 38%;
 }
 section.message > ol {
